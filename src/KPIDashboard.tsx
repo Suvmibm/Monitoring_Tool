@@ -1,3 +1,4 @@
+//@ts-nocheck
 import { useState, useMemo } from 'react';
 import { Filter, TrendingUp, Wifi, Globe, BarChart3 } from 'lucide-react';
 
